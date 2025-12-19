@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t debian-tony:v0.1 . 
+docker build -t debian-ntt:v1 . 
